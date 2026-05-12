@@ -94,7 +94,7 @@ while 1:
     print()
 ```
 
-##Server Program:
+## Server Program:
 ```
 import socket
 s = socket.socket()
