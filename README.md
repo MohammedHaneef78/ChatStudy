@@ -1,4 +1,4 @@
-# Ex. No:1b 			Study of Client Server Chat Applications
+# Ex. No:1b 			STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL
 
 ## Aim: 
 To implement socket programming date and time display from client to server using TCPSockets
